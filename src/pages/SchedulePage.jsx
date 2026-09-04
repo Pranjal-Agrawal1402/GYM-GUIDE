@@ -45,7 +45,7 @@ const SchedulePage = () => {
               <img
                 className="object-cover h-64 w-full md:w-48 md:h-full"
                 loading="lazy"
-                src={category.image}
+                src={`${import.meta.env.BASE_URL}${category.image.replace(/^\/+/, '')}`}
                 alt={category.categoryName}
               />
               <div className="p-8">

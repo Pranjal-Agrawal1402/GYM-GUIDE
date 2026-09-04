@@ -58,9 +58,9 @@ export default function Navbar() {
       aria-label="Site Nav"
       className="flex items-center justify-between max-w-8xl p-4 mx-auto sticky top-0 bg-light z-10 border-b drop-shadow-sm"
     >
-      <a href="/">
+      <a href={import.meta.env.BASE_URL}>
         <img
-          src="/images/logoo.png"
+          src="images/logoo.png"
           className="inline-flex h-[1] w-10 items-center justify-center rounded-lg" // don't change logo's height and width here
           alt="Gym Junkies logo"
           loading="lazy"

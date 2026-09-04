@@ -3,24 +3,24 @@
     "id": 1,
     "categoryName": "Strength training",
     "description": "Strength training exercises help to build muscle and strength. Some popular strength training exercises include lifting weights, using resistance bands, and doing bodyweight exercises.",
-    "image": "/images/photo1.jpg"
+    "image": "images/photo1.jpg"
   },
   {
     "id": 2,
     "categoryName": "Yoga",
     "description": " Yoga is a great way to improve your flexibility, strength, and balance. It can also help to reduce stress and improve your mental health.",
-    "image": "/images/photo2.jpg"
+    "image": "images/photo2.jpg"
   },
   {
     "id": 3,
     "categoryName": "Cardio",
     "description": "Cardio exercises are great for improving your cardiovascular health and endurance. Some popular cardio exercises include running, swimming, biking, and dancing.",
-    "image": "/images/photo3.jpg"
+    "image": "images/photo3.jpg"
   },
   {
     "id": 4,
     "categoryName": "Pilates",
     "description": "Pilates is a low-impact exercise that focuses on core strength and flexibility. It can help to improve your posture, reduce back pain, and improve your overall fitness.",
-    "image": "/images/photo4.jpg"
+    "image": "images/photo4.jpg"
   }
 ]

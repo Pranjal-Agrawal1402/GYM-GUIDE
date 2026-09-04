@@ -15,7 +15,7 @@ export default function HomePage() {
             className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
               <img
                 alt="a girl doing exercises"
-                src="/images/pic2.jpg"
+                src="images/pic2.jpg"
                 className="absolute inset-0 h-full w-full object-cover"
                 loading="lazy"
               />
@@ -79,14 +79,14 @@ export default function HomePage() {
             <div className="grid grid-cols-2 gap-4 md:grid-cols-1 lg:grid-cols-2">
               <img
                 alt="Gym room"
-                src="/images/pic3.jpg"
+                src="images/pic3.jpg"
                 className="h-40 w-full object-cover sm:h-56 md:h-full rounded"
                 loading="lazy"
               />
 
               <img
                 alt="a girl doing exercises"
-                src="/images/pic1.jpg"
+                src="images/pic1.jpg"
                 className="h-40 w-full object-cover sm:h-56 md:h-full rounded"
                 loading="lazy"
               />
@@ -113,7 +113,7 @@ export default function HomePage() {
             <li>
               <div className="relative block group">
                 <img
-                  src="/images/pic4.jpg"
+                  src="images/pic4.jpg"
                   alt="exercise"
                   loading="lazy"
                   className="object-cover h-full w-full transition duration-500 aspect-square group-hover:opacity-90"
@@ -124,7 +124,7 @@ export default function HomePage() {
             <li>
               <div className="relative block group">
                 <img
-                  src="/images/pic5.jpg"
+                  src="images/pic5.jpg"
                   alt="exercise"
                   loading="lazy"
                   className="object-cover h-full w-full transition duration-500 aspect-square group-hover:opacity-90"
@@ -135,7 +135,7 @@ export default function HomePage() {
             <li className="lg:col-span-2 lg:col-start-2 lg:row-span-2 lg:row-start-1">
               <div className="relative block group">
                 <img
-                  src="/images/pic6.jpg"
+                  src="images/pic6.jpg"
                   alt="exercise"
                   loading="lazy"
                   className="object-cover h-full w-full transition duration-500 aspect-square group-hover:opacity-90"

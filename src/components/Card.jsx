@@ -43,7 +43,7 @@ export default function Card({ searchQuery }) {
                     : "border-indigo-400 rounded-xl"
                 )}
                 loading="lazy"
-                src={exercise.image}
+                src={`${import.meta.env.BASE_URL}${exercise.image.replace(/^\/+/, '')}`}
                 alt={exercise.exercise}
               />
             </div>
