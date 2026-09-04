@@ -1,5 +1,5 @@
  <h1 align="center">
- Gym Junkies 💫
+ GYM GUIDE 💫
  </h1>
  
 ![Screenshot from 2023-05-06 00-39-14](https://user-images.githubusercontent.com/88102392/236548850-e742e57e-1e80-4664-b8e2-3f692dae286d.png)
